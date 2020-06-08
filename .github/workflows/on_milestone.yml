@@ -1,4 +1,4 @@
-name: On Label
+name: On Milestone
 
 on:
   issues:
